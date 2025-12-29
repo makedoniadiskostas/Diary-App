@@ -9,6 +9,8 @@ This project was built as a practical exercise in building a real-world applicat
 
 # 🌠 Technologies
 • PHP <br>
+• HTML <br>
+• CSS <br>
 • MySql <br>
 • Xammp <br>
 • Visual Studio Code <br>
