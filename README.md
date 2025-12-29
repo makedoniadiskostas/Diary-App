@@ -31,6 +31,7 @@ The development of this diary project began with planning the core functionality
 # 📹 Preview
 
 <img width="1904" height="948" alt="image" src="https://github.com/user-attachments/assets/95f5bb9b-78cb-4285-8791-a22a4a025f88" />
+<br> <br>
 <img width="1919" height="794" alt="image" src="https://github.com/user-attachments/assets/fa796bde-7d9c-454f-b1aa-afb69a61f6a3" />
 
 
