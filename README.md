@@ -28,4 +28,9 @@ This project was built as a practical exercise in building a real-world applicat
 # 📍 The Process
 The development of this diary project began with planning the core functionality and designing a simple, user-friendly interface. The next step involved setting up the database structure to store diary entries and image references, followed by implementing CRUD operations to manage the data. Image upload handling, input validation, and configuration management were added to ensure reliability and security. Throughout the process, the project was refined through testing and incremental improvements, resulting in a functional application that demonstrates real-world web development practices.
 
-<img width="1920" height="955" alt="image" src="https://github.com/user-attachments/assets/f35653c3-c303-4f0b-a441-c27cdcd1904e" />
+# 📹 Preview
+
+<img width="1904" height="948" alt="image" src="https://github.com/user-attachments/assets/95f5bb9b-78cb-4285-8791-a22a4a025f88" />
+<img width="1919" height="794" alt="image" src="https://github.com/user-attachments/assets/fa796bde-7d9c-454f-b1aa-afb69a61f6a3" />
+
+
